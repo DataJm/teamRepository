@@ -13,7 +13,7 @@ print("Hola Mundo")
 
 
 # Gráficas (Hector)
-
+Estoy graficando los resultados.
 
 
 
